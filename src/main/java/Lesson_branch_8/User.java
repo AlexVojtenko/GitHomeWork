@@ -1,3 +1,7 @@
+package Lesson_branch_8;
+
+import Lesson_branch_8.Person;
+
 public class User extends Person {
 
     private String role;

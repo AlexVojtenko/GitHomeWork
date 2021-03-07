@@ -1,3 +1,8 @@
+package Lesson_branch_8;
+
+import Lesson_branch_8.Admin;
+import Lesson_branch_8.AdminService;
+
 public class Main {
 
     public static void main(String[] args) throws Exception {

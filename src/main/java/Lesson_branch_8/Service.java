@@ -1,4 +1,6 @@
-import java.io.IOException;
+package Lesson_branch_8;
+
+import Lesson_branch_8.Person;
 
 public interface Service {
 
