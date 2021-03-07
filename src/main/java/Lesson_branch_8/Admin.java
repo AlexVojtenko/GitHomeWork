@@ -1,6 +1,6 @@
 package Lesson_branch_8;
 
-public class git addAdmin extends Person {
+public class Admin extends Person {
 
     private String role;
 
